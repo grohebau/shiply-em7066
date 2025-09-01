@@ -36,10 +36,10 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Gerstenstraße 3",
+      "postal_code": "84174",
+      "city": "Eching",
+      "country": "Deutschland",
       "lat": "48.49420765050422",
       "lng": "12.028117567623202"
     }
